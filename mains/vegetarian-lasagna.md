@@ -1,5 +1,7 @@
 # Vegetarian lasagna recipe
 
+# Difficulty level (1-5 stars)
+****
 
 ## Ingredients
 
